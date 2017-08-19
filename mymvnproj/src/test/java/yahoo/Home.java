@@ -36,6 +36,7 @@ public class Home extends DriverClass
 	Thread.sleep(3000);
 	driver.findElement(By.id("createacc")).click();
 	Thread.sleep(5000);
+	System.out.println("updated by geetha");
 	
 	try
 	{
